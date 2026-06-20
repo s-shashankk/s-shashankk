@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://ssshashankkk-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+ 
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=s-shashankk&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
